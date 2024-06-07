@@ -24,6 +24,7 @@ Note
 - Aktifkan webview inspecting Telegram Dekstop kalian dengan cara; buka Setting > Advanced > Experimental Setting > Enable webview inspecting
 - Buka bot Supermeow lalu klik kanan dan pilih inspect/periksa
 - pilih gambar network/wifi di sebelah kanan atas
+- Reload page 
 - cari dan klik balances?telegram=...... lalu copy dan paste request URLnya ke dalam file data.txt 
 - hapus teks "https://api.supermeow.vip/meow/balances?" lalu simpan
 7. buka ......py 
