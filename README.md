@@ -1,3 +1,15 @@
+License: 
+  Telegram : @plancpremiumsignal
+  cp       : @pernann
+
+
+
+![image](https://github.com/PernanPlanc/Supermeow-autoclaim/assets/171103676/8dc88c72-d3b7-4061-9f45-79cba6e3ef89)
+
+
+
+
+
 Note
 1. Install Python
 2. Install pycryptodome dengan cara ; buka cmd, lalu masukkan prompt : pip install pycryptodome
